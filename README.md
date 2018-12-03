@@ -7,6 +7,5 @@ I planned to address the goal 15 given by United Nations. It aims to protect, re
 
 Virtual reality makes the person feel the condition of another place or another person or another time, hence the user can connect better to the cause. One can create the a different scenario and the user can easily relate to it as he would be feeling it. That is why, virtual reality is potentially a better medium to convey the message.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tIzESS8iVvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Link to Demo: https://youtu.be/tIzESS8iVvE
 
